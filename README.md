@@ -1,5 +1,3 @@
-Hi, I'm Ibtehaz. 
+Hello. My name is Ibtehaz. I'm a dynamic and solution-oriented computer scientist with an ability to bridge communication gaps between technical, business and executive audiences. 
 
-A passionate full stack web developer with an extensive experience in building applications with JavaScript, React, Node.js, MongoDB and some other cool libraries and frameworks. 
-
-Connect with me on LinkedIn - www.linkedin.com/in/utsay/
+Checkout my  <a href="www.ibtehaz.com/">website</a> or connect with me on <a href="www.linkedin.com/in/utsay/">LinkedIn</a>
